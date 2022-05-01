@@ -1,2 +1,2 @@
 # next-ts
-Next TS template
+NextJS Typescript template with tailwind CSS
